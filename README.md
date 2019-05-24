@@ -55,10 +55,10 @@ You don't need to reply to every email, especially not those that are themselves
 If we all agreed to spend less time doing email, we'd all get less email! Consider calendaring half-days at work where you can't go online. Or a commitment to email-free weekends. Or an 'auto-response' that references this charter. And don't forget to smell the roses.
 
 
-## 1️⃣ Respect Recipients' Time  | ## 6️⃣ Tighten the Thread 
+ 1️⃣ Respect Recipients' Time  | 6️⃣ Tighten the Thread 
 ------------ | -------------
 This is the fundamental rule. As the message sender, the onus is on YOU to minimize the time your email will take to process. Even if it means taking more time at your end before sending.  | Some emails depend for their meaning on context. Which means it's usually right to include the thread being responded to. But it's rare that a thread should extend to more than 3 emails. Before sending, cut what's not relevant. Or consider making a phone call instead. 
 
-## 2️⃣ Short or Slow is not Rude | ## 7️⃣ Attack Attachments 
+2️⃣ Short or Slow is not Rude | 7️⃣ Attack Attachments 
 ------------ | -------------
 Let's mutually agree to cut each other some slack. Given the email load we're all facing, it's OK if replies take a while coming and if they don't give detailed responses to all your questions. No one wants to come over as brusque, so please don't take it personally. We just want our lives back! | Don't use graphics files as logos or signatures that appear as attachments. Time is wasted trying to see if there's something to open. Even worse is sending text as an attachment when it could have been included in the body of the email. 
