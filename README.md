@@ -1,6 +1,5 @@
 # 10 Rules to Reverse the Email Spiral
 
-# 📖 Read it 🔗 Share it
 
 We're drowning in email. And the many hours we spend on it are generating ever more work for our friends and colleagues. (Here's why.) We can reverse this spiral only by mutual agreement. Hence this Charter...
 
