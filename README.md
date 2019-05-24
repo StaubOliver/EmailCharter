@@ -1,6 +1,6 @@
 # 10 Rules to Reverse the Email Spiral
 
-# 📖 Read it
+# 📖 Read it 🔗 Share it
 
 We're drowning in email. And the many hours we spend on it are generating ever more work for our friends and colleagues. (Here's why.) We can reverse this spiral only by mutual agreement. Hence this Charter...
 
@@ -54,6 +54,4 @@ You don't need to reply to every email, especially not those that are themselves
 
 If we all agreed to spend less time doing email, we'd all get less email! Consider calendaring half-days at work where you can't go online. Or a commitment to email-free weekends. Or an 'auto-response' that references this charter. And don't forget to smell the roses.
 
-
-# 🔗 Share it
 
